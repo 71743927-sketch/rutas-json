@@ -1,0 +1,7 @@
+# MP-121 · Nunca subir tokens, cookies ni el avance local del script.
+.env
+*.env
+.env.*
+tools/.progreso/
+__pycache__/
+*.pyc
